@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chelsea Jones Music",
+    "description": "",
+    "home_page_url": "https://chelseajonesofficial.com",
+    "feed_url": "https://chelseajonesofficial.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chelsea Jones"
+    },
+    "items": [
+    ]
+}
